@@ -7,6 +7,7 @@ Feel free to read, share, open an issue, or submit a pull request if you want to
 
 
 _.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._
+
 Key points from the interviews:
 
 1. Code as a common good: Open source is described as a fundamental learning tool; it allows people to review others’ work, compare different approaches, and develop critical thinking skills without having to “reinvent the wheel.”
