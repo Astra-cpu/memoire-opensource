@@ -16,3 +16,4 @@ Les points clé des interviews réalisées:
 
 5.Souveraineté et résistance au contrôle : Le logiciel libre est vu comme un rempart démocratique face à la centralisation des géants technologiques ou des États, garantissant un accès pérenne et partagé au savoir.
 
+J'ai également remarqué autre chose : lorsque je leur ai demandé comment ils avaient découvert l'open source, la plupart m'ont répondu qu'ils avaient commencé très jeunes et que c'était grâce à l'univers des jeux vidéo, avec des mods, etc.
