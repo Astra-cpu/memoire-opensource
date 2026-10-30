@@ -19,3 +19,5 @@ Key points from the interviews:
 4. “Thankless work”: Many developers devote thousands of volunteer hours to open-source projects out of passion or conviction, at the risk of their work being overlooked or appropriated for free by large private companies.
 
 5. Sovereignty and resistance to control: Open-source software is seen as a democratic bulwark against the centralization of tech giants or governments, guaranteeing sustainable and shared access to knowledge.
+
+Also, another thing I noticed was that when I asked them about their first experience with open source, most of them told me they started at a very young age and that they got into it through video games, with mods and so on...
