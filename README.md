@@ -1,14 +1,30 @@
 # memoire-opensource
-**Hello!**
+ _   _      _ _         _    _            _     _ _ 
+| | | |    | | |       | |  | |          | |   | | |
+| |_| | ___| | | ___   | |  | | ___  _ __| | __| | |
+|  _  |/ _ \ | |/ _ \  | |/\| |/ _ \| '__| |/ _` | |
+| | | |  __/ | | (_) | \  /\  / (_) | |  | | (_| |_|
+\_| |_/\___|_|_|\___/   \/  \/ \___/|_|  |_|\__,_(_)
+***********************************************************************************************
+*                                                                                             *
+*  I am a third-year DNMADE student researching the topic of open source                      *
+*  for my diploma article in graphic design. As part of my research, I conducted some         *
+*  interviews with students from 42 Nice to understand their relationship                     *
+*  with open-source tools and culture. This repository synthesizes the recurring themes       *
+*  and insights that emerged from our conversations.                                          *
+*   Feel free to read, share, open an issue, or submit a pull request                         *
+*   if you want to add comments or corrections your feedback is a huge help for my research.  *
+*   Thank you!                                                                                *
+*                                                                                             *
+***********************************************************************************************
 
-I am a third-year DNMADE student researching the topic of open source for my diploma thesis in graphic design.
-As part of my research, I conducted some interviews with students from 42 Nice to understand their relationship with open-source tools and culture. This repository synthesizes the recurring themes and insights that emerged from our conversations.
-Feel free to read, share, open an issue, or submit a pull request if you want to add comments or corrections your feedback is a huge help for my research. Thank you!
 
 
-_.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._
-
-Key points from the interviews:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~                                        ~
+~  **Key points from the interviews:**   ~
+~                                        ~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Code as a common good: Open source is described as a fundamental learning tool; it allows people to review others’ work, compare different approaches, and develop critical thinking skills without having to “reinvent the wheel.”
 
