@@ -6,7 +6,7 @@
 | | | |  __/ | | (_) | \  /\  / (_) | |  | | (_| |_|
 \_| |_/\___|_|_|\___/   \/  \/ \___/|_|  |_|\__,_(_)
 ***********************************************************************************************
-*                                                                                             *
+*                                                                                             
 *  I am a third-year DNMADE student researching the topic of open source                      *
 *  for my diploma article in graphic design. As part of my research, I conducted some         *
 *  interviews with students from 42 Nice to understand their relationship                     *
@@ -15,7 +15,7 @@
 *   Feel free to read, share, open an issue, or submit a pull request                         *
 *   if you want to add comments or corrections your feedback is a huge help for my research.  *
 *   Thank you!                                                                                *
-*                                                                                             *
+*                                                                                             
 ***********************************************************************************************
 
 
